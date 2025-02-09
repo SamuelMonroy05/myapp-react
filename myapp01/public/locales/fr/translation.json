@@ -1,0 +1,7 @@
+{
+    "title":"Exemple d'internationalisation",
+    "description":"Ceci est un exemple de base pour apprendre i18netx.",
+    "button_text" : "Cliquez ici",
+    "footer_text":"Tous droits réservés",
+    "Mage":"../accest/fr.png"
+}
